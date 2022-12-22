@@ -22,10 +22,10 @@ function App() {
     },
     {
       id: 3,
-      product: "iPad Air",
+      product: "iPhone SE",
       imgurl:
-        "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MM6U3HN_A_1_560x.png?v=1647001351",
-      price: 69899,
+        "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MMXH3HN_A_1.png?v=1646999458",
+      price: 39999,
     },
     {
       id: 4,
@@ -36,13 +36,36 @@ function App() {
     },
     {
       id: 5,
+      product: "iPad Air",
+      imgurl:
+        "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MM6U3HN_A_1_560x.png?v=1647001351",
+      price: 69899,
+    },
+    {
+      id: 6,
+      product: "iMac",
+      imgurl:
+        "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MJV93HN_A_1.png?v=1631165310",
+      price: 189999,
+    },
+
+
+    {
+      id: 7,
+      product: "Apple 67W adapter",
+      imgurl:
+        "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MKU63HN_A_1.jpg?v=1654596483",
+      price: 6700,
+    },
+    {
+      id: 8,
       product: "Apple Watch Ultra",
       imgurl:
         "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MQFL3HN_A_1_560x.jpg?v=1662633980",
       price: 59999,
     },
     {
-      id: 6,
+      id: 9,
       product: "Airpods Pro",
       imgurl:
         "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MQD83HN_A_1.jpg?v=1662723805",
@@ -100,3 +123,4 @@ function App() {
 }
 
 export default App;
+
