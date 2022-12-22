@@ -8,14 +8,14 @@ function App() {
   let datalist = [
     {
       id: 1,
-      product: "Iphone 14 ",
+      product: "iPhone 14 ",
       imgurl:
         "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MPV03HN_A_1.jpg?v=1662718728",
       price: 81999,
     },
     {
       id: 2,
-      product: "Iphone 14 pro",
+      product: "iPhone 14 pro",
       imgurl:
         "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MQ9P3HN_A_1_560x.jpg?v=1662718624",
       price: 129999,
